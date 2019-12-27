@@ -1,0 +1,9 @@
+{
+    "git.path": "C:/Program Files/Git/cmd/git.exe",
+    "code-runner.executorMap": {
+        "cpp": "cd $dir && \"C:/Program Files (x86)/Dev-Cpp/devcpp/g++.exe\" $fileName -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
+
+    },
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.runInTerminal" : true
+}
